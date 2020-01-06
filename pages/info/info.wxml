@@ -1,0 +1,6 @@
+<!--pages/info/info.wxml-->
+<text>pages/info/info.wxml</text><van-button type="default"  bind:click ="navigateToinfo">默认按钮</van-button>
+<van-button type="primary" bind:getuserinfo= "getUserInfo">登陆</van-button>
+<van-button type="info">信息按钮</van-button>
+<van-button type="warning">警告按钮</van-button>
+<van-button type="danger">危险按钮</van-button>   
